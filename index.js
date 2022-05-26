@@ -1,4 +1,4 @@
-(function (date="May 30, 2022 00:00:00") {
+(function (date="December 09, 2022 00:00:00") {
   const second = 1000,
         minute = second * 60,
         hour = minute * 60,
